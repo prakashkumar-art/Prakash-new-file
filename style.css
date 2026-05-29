@@ -1,0 +1,17 @@
+body{
+background-color: lightblue;
+text-align:center;
+margin-top: 100px;
+}
+button{background-color:blue}
+input{
+padding: 10px;
+margin: 5px;
+border-radius: 8px;
+}
+button{
+  padding:10px 20px;
+  background-color: blue;
+  color: white ;
+  border-radius:8px;
+}
